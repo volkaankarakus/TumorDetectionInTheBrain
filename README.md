@@ -7,4 +7,5 @@
 2. If it is the K-Means algorithm, the desired K value is asked.
 3. With all the methods applied, it is determined according to the tumor type and size.
 
+Inputs are outputs are attached.
 https://github.com/volkaankarakus/TumorDetectionInTheBrain/issues/1#issue-783639221
